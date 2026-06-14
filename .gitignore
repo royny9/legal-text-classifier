@@ -1,0 +1,7 @@
+
+internship_50k.parquet
+
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
